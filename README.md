@@ -7,3 +7,7 @@ It is easiest to restart the kernel and go from a fresh start if you change n.
 There are comments throughout to guide you in places that can be changed for interesting effects.
 Some code is commented out and may need to be toggled on as part of those changes.
 Similarly you might have to read the errors after a change and comment to disable some things.
+
+to run this on mybinder.org:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/blakewhite/modulus_exploration/HEAD?urlpath=%2Fdoc%2Ftree%2FModuli.ipynb)
